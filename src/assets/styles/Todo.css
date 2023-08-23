@@ -1,0 +1,69 @@
+.spantest {
+    color:red;
+
+}
+.box-table {
+    border-block-end: 1px solid rgba(5, 5, 5, 0.06);
+    border: 1px solid rgba(5, 5, 5, 0.06);
+    border-radius: 5px;
+    height: 605px;
+}
+.title-task {
+    display: flex;
+    gap: 5px;
+}
+ .crossbar {
+    border: 1px solid rgba(5, 5, 5, 0.06);
+    width: 100%;
+    height: 1px;
+    position: relative;
+    top: 14px;
+ }
+.list-ds ul{
+    list-style: none;
+    padding: 0;
+}
+.list-ds ul li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid rgba(5, 5, 5, 0.06);
+    
+
+}
+.T-check {
+    width: 20px;
+    border-radius: 5px;
+}
+button {
+    font-size: 14px;
+    height: 24px;
+    padding: 0px 7px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border-color: #d9d9d9;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.02);
+}
+
+.title-task {
+    padding: 20px 0;
+}
+
+select {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.88);
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    list-style: none;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    display: flex;
+    border-radius: 6px;
+    padding: 5px 15px 5px 2px;
+}
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}

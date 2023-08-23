@@ -1,0 +1,11 @@
+.navbar-brand {
+    width: 10%;
+}
+.icon-style {
+    color: red;
+    border: 1px solid red;
+}
+
+.icon-style-check {
+    color: green;
+}
